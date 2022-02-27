@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkliscomp_website_vue3_cli"]=self["webpackChunkliscomp_website_vue3_cli"]||[]).push([[178],{8178:function(e,n,u){u.r(n),u.d(n,{default:function(){return s}});var i=u(3396);function c(e,n){return(0,i.wg)(),(0,i.iD)("div",null,"Olá mundo")}var r=u(89);const t={},l=(0,r.Z)(t,[["render",c]]);var s=l}}]);
+//# sourceMappingURL=178.ba9a2d8b.js.map
